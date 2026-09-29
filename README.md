@@ -106,11 +106,11 @@ learning: Advanced Audio Signal Processing, Distributed Systems, Cloud Architect
 
 <!-- Project Pin Cards -->
 <a href="https://github.com/jerinjomy07/Focus-Flow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jerinjomy07&repo=Focus-Flow&theme=tokyonight&hide_border=true" alt="FocusFlow Pin" />
+  <img src="https://github-readme-stats-alpha-snowy-32.vercel.app/api/pin/?username=jerinjomy07&repo=Focus-Flow&theme=tokyonight&hide_border=true" alt="FocusFlow Pin" />
 </a>
 &nbsp;
 <a href="https://github.com/jerinjomy07/Song-Chord-Analyzer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jerinjomy07&repo=Song-Chord-Analyzer&theme=tokyonight&hide_border=true" alt="Song Chord Analyzer Pin" />
+  <img src="https://github-readme-stats-alpha-snowy-32.vercel.app/api/pin/?username=jerinjomy07&repo=Song-Chord-Analyzer&theme=tokyonight&hide_border=true" alt="Song Chord Analyzer Pin" />
 </a>
 
 </div>
@@ -122,10 +122,16 @@ learning: Advanced Audio Signal Processing, Distributed Systems, Cloud Architect
 ### 📊 **GitHub Analytics & Overview**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jerinjomy07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jerinjomy07&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <a href="https://github.com/jerinjomy07">
+    <img src="https://github-readme-stats-alpha-snowy-32.vercel.app/api?username=jerinjomy07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/jerinjomy07">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jerinjomy07&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  </a>
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerinjomy07&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+  <a href="https://github.com/jerinjomy07?tab=repositories">
+    <img src="https://github-readme-stats-alpha-snowy-32.vercel.app/api/top-langs/?username=jerinjomy07&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+  </a>
 </div>
 
 <br/>
